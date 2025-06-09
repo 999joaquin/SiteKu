@@ -141,7 +141,7 @@ export default function CaraKerjaPage() {
               <Link href="/cara-kerja" className="text-sm font-medium text-blue-400">
                 Cara Kerja
               </Link>
-              <Link href="#" className="text-sm font-medium text-gray-300 hover:text-white">
+              <Link href="/testimoni" className="text-sm font-medium text-gray-300 hover:text-white">
                 Testimoni
               </Link>
             </nav>
